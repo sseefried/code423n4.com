@@ -34,7 +34,7 @@ During the audit contest outlined in this document, C4 conducted an analysis of 
   1. [defsec](https://twitter.com/defsec_)
   1. 0xkatana
   1. [gzeon](https://twitter.com/gzeon)
-  1. [sseefried](http://seanseefried.org/blog)
+  1. [100proof](http://seanseefried.org/blog)
   1. [0v3rf10w](https://twitter.com/_0v3rf10w)
   1. hake
   1. 0xDjango
@@ -387,7 +387,7 @@ Take caution when allowing an asset to be borrowed. Alternatively, scale the pri
 
 For this contest, 18 reports were submitted by wardens detailing low risk and non-critical issues. The [report highlighted below](https://github.com/code-423n4/2022-03-sublime-findings/issues/23) by **hickuphh3** received the top score from the judge.
 
-*The following wardens also submitted reports: [IllIllI](https://github.com/code-423n4/2022-03-sublime-findings/issues/37), [kyliek](https://github.com/code-423n4/2022-03-sublime-findings/issues/75), [WatchPug](https://github.com/code-423n4/2022-03-sublime-findings/issues/61), [0x1f8b](https://github.com/code-423n4/2022-03-sublime-findings/issues/28), [robee](https://github.com/code-423n4/2022-03-sublime-findings/issues/3), [sseefried](https://github.com/code-423n4/2022-03-sublime-findings/issues/31), [BouSalman](https://github.com/code-423n4/2022-03-sublime-findings/issues/5), [Meta0xNull](https://github.com/code-423n4/2022-03-sublime-findings/issues/25), [rayn](https://github.com/code-423n4/2022-03-sublime-findings/issues/46), [0xkatana](https://github.com/code-423n4/2022-03-sublime-findings/issues/68), [Dravee](https://github.com/code-423n4/2022-03-sublime-findings/issues/33), [hake](https://github.com/code-423n4/2022-03-sublime-findings/issues/34), [0v3rf10w](https://github.com/code-423n4/2022-03-sublime-findings/issues/51), [0xDjango](https://github.com/code-423n4/2022-03-sublime-findings/issues/17), [dirk_y](https://github.com/code-423n4/2022-03-sublime-findings/issues/8), [defsec](https://github.com/code-423n4/2022-03-sublime-findings/issues/79), and [gzeon](https://github.com/code-423n4/2022-03-sublime-findings/issues/63).*
+*The following wardens also submitted reports: [IllIllI](https://github.com/code-423n4/2022-03-sublime-findings/issues/37), [kyliek](https://github.com/code-423n4/2022-03-sublime-findings/issues/75), [WatchPug](https://github.com/code-423n4/2022-03-sublime-findings/issues/61), [0x1f8b](https://github.com/code-423n4/2022-03-sublime-findings/issues/28), [robee](https://github.com/code-423n4/2022-03-sublime-findings/issues/3), [100proof](https://github.com/code-423n4/2022-03-sublime-findings/issues/31), [BouSalman](https://github.com/code-423n4/2022-03-sublime-findings/issues/5), [Meta0xNull](https://github.com/code-423n4/2022-03-sublime-findings/issues/25), [rayn](https://github.com/code-423n4/2022-03-sublime-findings/issues/46), [0xkatana](https://github.com/code-423n4/2022-03-sublime-findings/issues/68), [Dravee](https://github.com/code-423n4/2022-03-sublime-findings/issues/33), [hake](https://github.com/code-423n4/2022-03-sublime-findings/issues/34), [0v3rf10w](https://github.com/code-423n4/2022-03-sublime-findings/issues/51), [0xDjango](https://github.com/code-423n4/2022-03-sublime-findings/issues/17), [dirk_y](https://github.com/code-423n4/2022-03-sublime-findings/issues/8), [defsec](https://github.com/code-423n4/2022-03-sublime-findings/issues/79), and [gzeon](https://github.com/code-423n4/2022-03-sublime-findings/issues/63).*
 
 ## Codebase Impressions & Summary
 
