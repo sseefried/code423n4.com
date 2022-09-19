@@ -2716,7 +2716,7 @@ After step 5, the function `vestedAmount` will return a value that includes the 
 
 Thus, when the minnow withdraws their funds `releasable` is much larger than the amount they otherwise would have expected. Further [sharesWithdrawn](https://github.com/code-423n4/2022-05-rubicon/blob/8c312a63a91193c6a192a9aab44ff980fbfd7741/contracts/peripheral_contracts/BathBuddy.sol#L103) is equal to [initialTotalSupply](https://github.com/code-423n4/2022-05-rubicon/blob/8c312a63a91193c6a192a9aab44ff980fbfd7741/contracts/peripheral_contracts/BathBuddy.sol#L104) in this particular scenario so `mul(sharesWithdrawn).div(initialTotalSupply)` evaluates to `1`. This means that `amount = releaseable`.
 
-A [test](https://github.com/one-hundred-proof/codearena-rubicon-2022-05/blob/f5010d845d3713b07a00f3bb96a5608c6d09b047/test/BugsBathBuddy.js#L55-L145) has been written in the private fork that exhibits this behaviour.
+A [test](https://github.com/one-hundred-proof/rubicon-2022-05/blob/cbe5551f1343b60362ce9cc51d97a9b7359a3ca5/test/BugsBathBuddy.js#L55-L145) has been written in the private fork that exhibits this behaviour.
 
 ### Recommended Mitigation Steps
 
