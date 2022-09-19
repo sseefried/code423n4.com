@@ -98,7 +98,7 @@ During the audit contest outlined in this document, C4 conducted an analysis of 
   1. samruna
   1. sorrynotsorry
   1. [Czar102](https://twitter.com/_Czar102)
-  1. [100proof](http://seanseefried.org/blog)
+  1. [100proof](https://twitter.com/1_00_proof)
   1. [georgypetrov](https://twitter.com/georgypetrov_)
   1. cloudjunky
   1. 0x52

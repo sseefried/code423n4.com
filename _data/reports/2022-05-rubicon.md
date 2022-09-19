@@ -36,7 +36,7 @@ During the audit contest outlined in this document, C4 conducted an analysis of 
   1. [hansfriese](https://twitter.com/hansfriese)
   1. GimelSec ([rayn](https://twitter.com/rayn731) and sces60107)
   1. [0xsomeone](https://github.com/alex-ppg)
-  1. [100proof](http://seanseefried.org/blog)
+  1. [100proof](https://twitter.com/1_00_proof)
   1. blackscale
   1. sashik_eth
   1. [csanuragjain](https://twitter.com/csanuragjain)

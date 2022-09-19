@@ -34,7 +34,7 @@ During the audit contest outlined in this document, C4 conducted an analysis of 
   1. [defsec](https://twitter.com/defsec_)
   1. 0xkatana
   1. [gzeon](https://twitter.com/gzeon)
-  1. [100proof](http://seanseefried.org/blog)
+  1. [100proof](https://twitter.com/1_00_proof)
   1. [0v3rf10w](https://twitter.com/_0v3rf10w)
   1. hake
   1. 0xDjango

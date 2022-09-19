@@ -73,7 +73,7 @@ During the audit contest outlined in this document, C4 conducted an analysis of 
   1. [Ruhum](https://twitter.com/0xruhum)
   1. zzzitron
   1. Trumpero
-  1. [100proof](http://seanseefried.org/blog)
+  1. [100proof](https://twitter.com/1_00_proof)
   1. cloudjunky
   1. cccz
   1. [Bronicle](https://twitter.com/Cryptonicle1)

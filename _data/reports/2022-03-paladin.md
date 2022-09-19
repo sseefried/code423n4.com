@@ -43,7 +43,7 @@ During the audit contest outlined in this document, C4 conducted an analysis of 
   1. JC
   1. [csanuragjain](https://twitter.com/csanuragjain)
   1. [defsec](https://twitter.com/defsec_)
-  1. [100proof](http://seanseefried.org/blog)
+  1. [100proof](https://twitter.com/1_00_proof)
   1. [Dravee](https://twitter.com/JustDravee)
   1. kenta
   1. 0xkatana

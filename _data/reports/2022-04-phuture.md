@@ -51,7 +51,7 @@ During the audit contest outlined in this document, C4 conducted an analysis of 
   1. [foobar](https://twitter.com/0xfoobar)
   1. [fatherOfBlocks](https://twitter.com/father0fBl0cks)
   1. xpriment626
-  1. [100proof](http://seanseefried.org/blog)
+  1. [100proof](https://twitter.com/1_00_proof)
   1. [0xNazgul](https://twitter.com/0xNazgul)
   1. [Tomio](https://twitter.com/meidhiwirara)
   1. slywaters
